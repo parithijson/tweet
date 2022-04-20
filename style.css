@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css2?family=Overpass:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+body{
+    margin:0;
+    padding:0;
+    background-image: url("https://images.unsplash.com/photo-1534841090574-cba2d662b62e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTl8fHxlbnwwfHx8fA%3D%3D&w=1000&q=80");
+    background-attachment: fixed;
+    font-family: 'Overpass', sans-serif;
+}
+.cardx{
+     background-color: rgb(120 120 120 / 15%);  
+ backdrop-filter: blur(5px);
+    border-radius:2rem;
+}
+.img-fluid{
+    float:left;
+    border-radius:4rem;
+    width:18%;
+    margin-right:5%;
+    margin-top:1rem; 
+    margin-top:1rem; 
+}
+h2{
+    font-size:1rem;
+    
+}
+h3{
+    font-size:10px;
+    color:#8f8f8f;
+}
+p{
+    margin-top:1rem;
+}
+.container{
+    color:white;
+    margin-top:1rem;
+    display:inline;
+
+}
+
+.col-lg-6{
+    margin-bottom:1rem;
+    margin-top: 1rem;
+}
+span{
+    color:#8f8f8f;
+    padding-top: 11%;
+    padding-left: 15%;  
+}
+.x{
+    border: 1px solid #8f8f8f;
+    border-radius: 2rem;
+    position: absolute;
+    display: inline-block;
+    width: 10%;
+    height: 21%;
+    padding: 0%;
+    left: 85%;
+    margin-top: 3%;
+}
+
+
+
+
+
+
+
+
+
+
